@@ -5,3 +5,4 @@ _repo/script.module.uritemplate/LICENSE
 _repo/script.module.uritemplate/lib/uritemplate/__init__.py
 _repo/script.module.uritemplate/icon.png
 _repo/script.module.uritemplate/addon.xml
+.DS_Store
